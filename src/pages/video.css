@@ -1,0 +1,13 @@
+.video {
+    background-color: red;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    scroll-snap-align: start;
+}
+
+.video__play {
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
